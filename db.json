@@ -1,15 +1,39 @@
 {
   "tasks": [
     {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "August 5th at 2:30pm",
+      "reminder": true
+    },
+    {
       "id": 2,
       "text": "Meeting at School",
       "day": "August 6th at 2:30pm",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 3,
       "text": "Food Shopping",
       "day": "August 7th at 12:30pm",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Start new project",
+      "day": "August 13th at 2:30pm",
+      "reminder": false
+    },
+    {
+      "id": 5,
+      "text": "Start a new Course",
+      "day": "August 17th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 6,
+      "text": "Learn the linux command",
+      "day": "August 27th at 12:30pm",
       "reminder": false
     }
   ]
