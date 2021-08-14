@@ -35,6 +35,12 @@
       "text": "Learn the linux command",
       "day": "August 27th at 12:30pm",
       "reminder": false
+    },
+    {
+      "text": "Watch Man u match",
+      "day": "Saturday 14th, 12:30pm",
+      "reminder": true,
+      "id": 7
     }
   ]
 }
